@@ -9,6 +9,9 @@ bin
 
 *.class
  
+war/WEB-INF/classes/*
+src/log4j.properties
+war/WEB-INF/logging.properties
 
 # Package Files #
 *.jar
